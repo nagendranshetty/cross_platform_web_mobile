@@ -1,0 +1,59 @@
+11/07/2023 12:58:57 PM - BrowserDriver - INFO: Element Found
+11/07/2023 12:58:57 PM - BrowserDriver - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 12:58:57 PM - BrowserDriver - INFO: Element Found
+11/07/2023 12:58:57 PM - BrowserDriver - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 12:58:57 PM - BrowserDriver - INFO: Element Found
+11/07/2023 12:59:00 PM - BrowserDriver - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:02:57 PM - LoginPage - INFO: Element Found
+11/07/2023 01:02:57 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:02:57 PM - LoginPage - INFO: Element Found
+11/07/2023 01:02:57 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:02:57 PM - LoginPage - INFO: Element Found
+11/07/2023 01:03:03 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:12:36 PM - LoginPage - INFO: Element Found
+11/07/2023 01:12:37 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:12:37 PM - LoginPage - INFO: Element Found
+11/07/2023 01:12:37 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:12:37 PM - LoginPage - INFO: Element Found
+11/07/2023 01:12:38 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:12:38 PM - LoginPage - INFO: Element Found
+11/07/2023 01:33:26 PM - LoginPage - INFO: Element Found
+11/07/2023 01:33:27 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:33:27 PM - LoginPage - INFO: Element Found
+11/07/2023 01:33:27 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:33:27 PM - LoginPage - INFO: Element Found
+11/07/2023 01:33:29 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:33:29 PM - LoginPage - INFO: Element Found
+11/07/2023 01:51:24 PM - LoginPage - INFO: Element Found
+11/07/2023 01:51:25 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:51:25 PM - LoginPage - INFO: Element Found
+11/07/2023 01:51:25 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:51:25 PM - LoginPage - INFO: Element Found
+11/07/2023 01:51:26 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:51:26 PM - LoginPage - INFO: Element Found
+11/07/2023 01:54:02 PM - LoginPage - INFO: Element Found
+11/07/2023 01:54:03 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:54:03 PM - LoginPage - INFO: Element Found
+11/07/2023 01:54:03 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:54:03 PM - LoginPage - INFO: Element Found
+11/07/2023 01:54:03 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:54:06 PM - LoginPage - INFO: Element not found
+11/07/2023 01:55:04 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:04 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:55:04 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:04 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:55:04 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:06 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:55:06 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:09 PM - LoginPage - INFO: Element not found
+11/07/2023 01:55:12 PM - LoginPage - INFO: Element not found
+11/07/2023 01:55:15 PM - LoginPage - INFO: Element not found
+11/07/2023 01:55:15 PM - LoginPage - INFO: Cannot click on the element with locator: submit locatorType: id
+11/07/2023 01:55:15 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:58 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:58 PM - LoginPage - INFO: Send data on element with locator: username locatorType: id
+11/07/2023 01:55:58 PM - LoginPage - INFO: Element Found
+11/07/2023 01:55:58 PM - LoginPage - INFO: Send data on element with locator: password locatorType: id
+11/07/2023 01:55:58 PM - LoginPage - INFO: Element Found
+11/07/2023 01:56:00 PM - LoginPage - INFO: Clicked on element with locator: submit locatorType: id
+11/07/2023 01:56:00 PM - LoginPage - INFO: Element Found

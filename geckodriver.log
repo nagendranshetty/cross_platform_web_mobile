@@ -1,0 +1,148 @@
+1699387168040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.me9SQD762mrD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699387169088	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699387169199	Marionette	INFO	Listening on port 62935
+1699387169817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699387200859	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c, line 127: Script terminated by timeout at:
+Sa@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:127:437
+jp@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:348:423
+fq@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:351:766
+hG/<@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:510:153
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:463:126
+aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:462:420
+
+1699387239441	Marionette	INFO	Stopped listening on port 62935
+Dynamically enable window occlusion 1
+1699387275008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.fIEZxi9FHoQo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699387275872	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699387276355	Marionette	INFO	Listening on port 62998
+1699387276455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699387289864	Marionette	INFO	Stopped listening on port 62998
+Dynamically enable window occlusion 1
+1699388377881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.hoqiow69fyNf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699388378935	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699388379575	Marionette	INFO	Listening on port 63152
+1699388379676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699388388508	Marionette	INFO	Stopped listening on port 63152
+Dynamically enable window occlusion 1
+1699389776893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.FMrqkvRr1hjy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699389777814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699389778407	Marionette	INFO	Listening on port 63315
+1699389778514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699389786401	Marionette	INFO	Stopped listening on port 63315
+Dynamically enable window occlusion 1
+1699390558812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.yKPkHQ0GuohV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699390559752	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699390559871	Marionette	INFO	Listening on port 63492
+1699390560010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699390569897	Marionette	INFO	Stopped listening on port 63492
+Dynamically enable window occlusion 1
+1699390718625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.Q7W7JqXC3CDy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699390719389	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699390719485	Marionette	INFO	Listening on port 63556
+1699390720053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699390741096	Marionette	INFO	Stopped listening on port 63556
+Dynamically enable window occlusion 1
+1699390969686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.Q6bSzFTKOGiY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699390970478	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699390970599	Marionette	INFO	Listening on port 63615
+1699390971181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699390984172	Marionette	INFO	Stopped listening on port 63615
+JavaScript warning: https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4, line 3: Script terminated by timeout at:
+parse/twemoji<@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:3:1196
+parse@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:3:1677
+f@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:5:2746
+s@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:5:995
+c.wp.emoji<@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:5:2782
+@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:5:41
+@https://practicetestautomation.com/wp-includes/js/wp-emoji-release.min.js?ver=6.4:5:2823
+
+Dynamically enable window occlusion 1
+1699391549642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.HTf8XCNfQwHB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699391550347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699391550463	Marionette	INFO	Listening on port 63683
+1699391551037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699391558578	Marionette	INFO	Stopped listening on port 63683
+Dynamically enable window occlusion 1
+1699392795146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.WF1hiPymkysT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699392795813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699392795927	Marionette	INFO	Listening on port 63796
+1699392796516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699392809296	Marionette	INFO	Stopped listening on port 63796
+Dynamically enable window occlusion 1
+1699393877171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.cBTv2n91lq0W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699393878183	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699393878307	Marionette	INFO	Listening on port 63904
+1699393878950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699393886740	Marionette	INFO	Stopped listening on port 63904
+Dynamically enable window occlusion 1
+1699394034941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.oKtP3mtSwWLP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699394035648	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699394035753	Marionette	INFO	Listening on port 63965
+1699394036345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699394046582	Marionette	INFO	Stopped listening on port 63965
+Dynamically enable window occlusion 1
+1699394097414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.PIXmybz69uU7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699394098074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699394098207	Marionette	INFO	Listening on port 64020
+1699394098771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699394115297	Marionette	INFO	Stopped listening on port 64020
+Dynamically enable window occlusion 1
+1699394150892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.GlOPfcDIEnix"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699394151542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699394151652	Marionette	INFO	Listening on port 64072
+1699394152217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1699394160119	Marionette	INFO	Stopped listening on port 64072
+Dynamically enable window occlusion 1
